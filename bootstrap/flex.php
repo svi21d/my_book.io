@@ -1,6 +1,6 @@
 <?php
-require_once "/Users/vutang/PhpstormProjects/пособник/шапка_подвал/head.php";
-require_once "/Users/vutang/PhpstormProjects/пособник/шапка_подвал/header.php";
+require_once "../шапка_подвал/head.php";
+require_once "../шапка_подвал/header.php";
 ?>
 
 <!-- Создаю общий контейнер под основной текст, навигационное меню и тестовое меню-->
@@ -2454,7 +2454,7 @@ require_once "/Users/vutang/PhpstormProjects/пособник/шапка_под�
     </div>
     <!--Подключаем footer-->
     <?php
-    require_once "/Users/vutang/PhpstormProjects/пособник/шапка_подвал/footer.php";
+    require_once "../шапка_подвал/footer.php";
     ?>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 

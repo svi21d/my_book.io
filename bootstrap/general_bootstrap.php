@@ -1,12 +1,12 @@
 
     <!--Подключаем голову-->
     <?php
-        require_once "/Users/vutang/PhpstormProjects/пособник/шапка_подвал/head.php";
+        require_once "../шапка_подвал/head.php";
     ?>
 <div class="d-flex flex-column min-vh-100">
     <!--Подключаем шапку-->
     <?php
-        require_once "/Users/vutang/PhpstormProjects/пособник/шапка_подвал/header.php";
+        require_once "../шапка_подвал/header.php";
     ?>
 
     <!--основная часть (контент)-->
@@ -59,7 +59,7 @@
 
         <!--Подключаем footer-->
         <?php
-        require_once "/Users/vutang/PhpstormProjects/пособник/шапка_подвал/footer.php";
+        require_once "../шапка_подвал/footer.php";
         ?>
 
 </div>

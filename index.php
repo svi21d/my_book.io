@@ -1,12 +1,12 @@
 
         <!--Подключаем голову-->
         <?php
-            require_once "../шапка_подвал/head.php";
+            require_once "./шапка_подвал/head.php";
         ?>
     <div class="d-flex flex-column min-vh-100">
         <!--Подключаем шапку-->
         <?php
-            require_once "../шапка_подвал/header.php";
+            require_once "./шапка_подвал/header.php";
         ?>
 
         <!--основная часть (контент)-->
@@ -20,7 +20,7 @@
                 <!--2-я часть контент-->
                 <div class="col-xxl-10 col-xl-10 col-l-10 col-m-12">
                     <!--данный d-flex для того-->
-                    <div class="row">
+                    <div class="row tt">
 
                         <!--d-flex для того, чтобы сделать картинку по центру-->
                         <div class="d-flex justify-content-center p-3 col-xxl-4 col-xl-6 col-lg-6 col-md-6">
