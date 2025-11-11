@@ -2443,7 +2443,7 @@ require_once "../шапка_подвал/header.php";
                                 <span class="word_text">.align-content-xll-around</span>
                             </li>
                             <li class="nav-item mb-1">
-                                <span class="word_text">.align-content-xll-stretch</span>
+                                <span class="word_text">.align-content-xll-stretch tt</span>
                             </li>
                         </ul>
                     </div>
