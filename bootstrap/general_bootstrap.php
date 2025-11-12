@@ -48,6 +48,9 @@
                             <img src="../img/flex.jpg" class="rad element card_shadow" alt="..."
                                  style="height:210px; width: 350px ">
                         </a>
+                        <a href="#">
+
+                        </a>
                     </div>
 
                 </div>
